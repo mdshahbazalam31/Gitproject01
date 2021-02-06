@@ -1,11 +1,13 @@
 hello world....
 
-change 1 :-> to check modification in tracked file.
+change 1 :-> By check modification in tracked file.
 
-change 2 :-> to stash for WI2 is inprogress
+change 2 :-> By stash for WI2 is inprogress
 
-change 3 :-> to test push for WI3 from local master to remote master.
+change 3 :-> For test push for WI3 from local master to remote master.
 
-change 4 :-> to test push operation from remote master to local mster
+change 4 :-> To test push operation from remote master to local mster
 
 change 5 :-> change for bug1 on remote master by team mate to test rebase.
+
+Change 6 :-> local master to test rebase for CR1.
